@@ -6,3 +6,6 @@ The application provides a user-friendly interface to manage orders and reservat
  - Reservation Management: Enables users to register, update, and delete table reservations for customers.
    
 The application utilizes a MySQL database to store information about orders and reservations, providing a comprehensive data management solution for restaurateurs.
+<img src="p1.png">
+<img src="p2.png">
+<img src="p3.png">
